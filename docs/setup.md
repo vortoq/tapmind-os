@@ -11,18 +11,18 @@
 ```bash
 chmod +x configs/system-setup.sh
 ./configs/system-setup.sh
-
+```
 
 ## 2. Launch TapMind
 
 ```bash
 cd core
 python3 launcher.py
-
+```
 
 ## 3. Run Microapps
 
 ```bash
 python3 apps/voicegpt.py
 python3 apps/beatforge.py
-
+```
